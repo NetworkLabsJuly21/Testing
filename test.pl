@@ -1,2 +1,2 @@
-print "World";
+print "hello world";
 $var = <>;
